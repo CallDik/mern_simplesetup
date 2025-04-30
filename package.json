@@ -1,0 +1,20 @@
+{
+  "name": "mern_simplesetup",
+  "version": "1.0.0",
+  "main": "HelloWorld.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hot-loader/react-dom": "^16.13.0",
+    "express": "^5.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-hot-loader": "^4.12.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
